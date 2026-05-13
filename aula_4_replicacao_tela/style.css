@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+h2{
+    color:rgb(224, 202, 179);
+    text-align: justify;
+}
+h3{
+   color:rgb(224, 202, 179);
+    text-align: justify;
+    
+}
+#OlaTxt{
+    margin: 20px;
+}
+
+#Baseado{
+    margin: 20px;
+    padding: 9px;
+}
+#fontFale{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:rgb(224, 202, 179);
+cursor: pointer;
+}
+
+
+.Flex{
+    display: flex
+}
+.Robo_Formatar{
+    height: 300px;
+}
+
+.fundoOla{
+display: flex;
+background-color: peru;
+height: 330px;
+width: 1150px;
+margin: 40px;
+border-radius: 10px;
+}
+
+
+
+.CfaleComigo{
+    background-color: peru;
+    width: 150px;
+    height: 35px;
+    border-radius: 25px;
+     display: flex;
+  justify-content: center;
+  align-items: center; 
+margin-left:10px;
+ cursor: pointer;
+}
+.ContainerPerguntas{
+background-color: peru;
+border-radius: 20px;
+width: 300px;
+height: 40px;
+margin-top:20px;
+margin-left: 50px;
+display: flex;             
+  justify-content: center;  
+  align-items: center;  
+  cursor: pointer;     
+
+}
+#fontePerguntas{
+ color:aliceblue;
+cursor: pointer;
+}
+section {
+    display: flex;
+}
+
+.esquerda  {
+    height: 330px;
+    width: 1200px;
+    border-radius: 20px;
+    margin: 20px;
+    background-color: saddlebrown;
+}
+
+.direita {
+    height: 330px;
+    width: 30%;
+     border-radius: 20px;
+    background-color: saddlebrown;
+    margin: 20px;
+}
+.verPedidos{
+    margin: 15px;
+  margin-left: 140px;
+  color: white;
+}
+
+.statusRecentes{
+margin: 20px;
+
+}
+
+.fundobranco img {
+    width: 100%;
+}
+
+.fundoProdutos{
+display: flex;
+background-color:#8b4513;
+height: 350px;
+width: 1180px;
+margin: 40px;
+border-radius: 10px;
+}
+
+.fundobranco{
+    height: 100px;
+    width: 100px;
+    margin: 20px;
+}
+.img_fundo{
+    height: 100px;
+    
+}
+
+
+.fundo{
+    background-color: peru;
+    width: 660px;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.amarelo{
+    background-color: yellow;
+    padding: 80px;
+    margin: 10px;
+}
+
+.esticar{
+    padding-right: 300px;
+}
+.esticarTudo{
+    padding-right: 510px;
+}
+.vert { 
+  padding-top: 300px;
+ 
+}
+.gordo{
+    padding: 150px;
+}
